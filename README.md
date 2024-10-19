@@ -1,0 +1,2 @@
+# practucumdiplommain
+main
